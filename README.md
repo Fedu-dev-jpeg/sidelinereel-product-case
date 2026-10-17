@@ -32,7 +32,6 @@ No build step or external dependency is required.
 
 - `sidelinereel_prototype.html` — clickable prototype.
 - `sidelinereel_case.md` — roadmap call, spec, acceptance criteria, failure modes, AI workflow note.
-- `speaker_notes.md` — short recording notes with click-by-click directions.
 - `SidelineReel_motion_graphics.mp4` — motion-graphics walkthrough of the system.
 
 All names, metrics shown inside the prototype, and reel visuals are simulated for demonstration.
